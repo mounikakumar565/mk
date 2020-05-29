@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>None</loc>
-     <lastmod>2020-05-27</lastmod>
+     <loc>https://mounikakumar565.github.io/mk/</loc>
+     <lastmod>2020-05-29</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>None</loc>
-     <lastmod>2020-05-27</lastmod>
+     <loc>https://mounikakumar565.github.io/mk/Technologies_Used/</loc>
+     <lastmod>2020-05-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://mounikakumar565.github.io/mk/Installation/</loc>
+     <lastmod>2020-05-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://mounikakumar565.github.io/mk/HE_Software_Requirement/</loc>
+     <lastmod>2020-05-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
